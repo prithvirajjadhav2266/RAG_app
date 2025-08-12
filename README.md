@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAG Flask API for Geospatial Technology
 
 A Retrieval-Augmented Generation (RAG) system built with Flask that answers questions about geospatial technology using PDF documents as knowledge base.
@@ -142,3 +143,7 @@ This project is licensed under the MIT License.
 ## 🆘 Support
 
 For questions or issues, please open an issue on GitHub.
+=======
+# RAG_app
+RAG application 
+>>>>>>> 38aa3f6251194fdccf583140c1eb182d57329a90
